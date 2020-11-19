@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+__pycache__
+*.egg-info
+MANIFEST
+venv/
+*.log
+*.pyc
+*.pem
+build/
+dist/
